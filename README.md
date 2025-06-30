@@ -74,3 +74,14 @@ Make sure `salaries.csv` is in the same folder as `main.py`. Then run:
 
 ```bash
 python main.py
+
+---
+
+### 📥 What to Do Next
+
+1. Save this file as `README.md` in your project folder.
+2. Zip the folder (`main.py`, `salaries.csv`, `README.md`)
+3. Upload to GitHub or submit as `.zip` as per your platform.
+
+
+
